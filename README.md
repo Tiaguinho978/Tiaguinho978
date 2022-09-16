@@ -1,5 +1,5 @@
-# Hi!!!
-<\H> I'm Tiago and I'm 17 <\H>
+# HI, HOW ARE YOU?
+<H2> I'm Tiago and I'm 17  </H2>
 <!--
 **Tiaguinho978/Tiaguinho978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
